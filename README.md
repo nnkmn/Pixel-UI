@@ -141,7 +141,7 @@ pixel-ui-kit/
 | 交互 | Dropdown, Tooltip, Modal |
 | 工具 | Divider, Empty State |
 
-**在线预览**: 打开 [gradient/index.html](./gradient/index.html)
+**在线预览**: [https://nnkmn.github.io/Pixel-UI/gradient/index.html](https://nnkmn.github.io/Pixel-UI/gradient/index.html)
 
 ---
 
@@ -173,7 +173,7 @@ Button, Input, Checkbox/Radio/Switch, Card, Avatar, Badge,
 Alert, Tabs, Navbar, Breadcrumb, Pagination, Progress,
 Spinner/Skeleton, Table, Dropdown, Tooltip, Modal, Divider, Empty State
 
-**在线预览**: 打开 [minimal/index.html](./minimal/index.html)
+**在线预览**: [https://nnkmn.github.io/Pixel-UI/minimal/index.html](https://nnkmn.github.io/Pixel-UI/minimal/index.html)
 
 ---
 
@@ -224,7 +224,7 @@ Spinner/Skeleton, Table, Dropdown, Tooltip, Modal, Divider, Empty State
 /* 进度条 */    --pc-progress-bg: var(--pc-primary);
 ```
 
-**在线预览**: 打开 [custom/index.html](./custom/index.html) （含颜色定制器）
+**在线预览**: [https://nnkmn.github.io/Pixel-UI/custom/index.html](https://nnkmn.github.io/Pixel-UI/custom/index.html) （含颜色定制器）
 
 ---
 
@@ -268,4 +268,4 @@ github, moon, sun, zoom-in/out, grid, list, inbox
 
 ## License
 
-MIT © [EccenTri](https://github.com/nnkmn)
+[MIT](./LICENSE)

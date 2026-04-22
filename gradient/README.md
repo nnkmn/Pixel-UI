@@ -21,4 +21,4 @@
 - 柔和圆角（4px ~ 24px）
 - Inter 字体
 
-**在线预览**: 打开本目录下的 [index.html](./index.html)
+**在线预览**: [https://nnkmn.github.io/Pixel-UI/gradient/index.html](https://nnkmn.github.io/Pixel-UI/gradient/index.html)

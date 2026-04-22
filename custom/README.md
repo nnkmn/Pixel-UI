@@ -21,4 +21,4 @@
 :root { --pc-primary: #ff6b35; }
 ```
 
-**在线预览**: 打开本目录下的 [index.html](./index.html) （含颜色定制器）
+**在线预览**: [https://nnkmn.github.io/Pixel-UI/custom/index.html](https://nnkmn.github.io/Pixel-UI/custom/index.html) （含颜色定制器）
