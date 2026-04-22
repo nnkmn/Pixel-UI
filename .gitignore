@@ -1,0 +1,8 @@
+TASKS.md
+*.sample
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.pyc
+.env
